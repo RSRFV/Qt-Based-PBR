@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/shaders">
+        <file>res/shaders/coordinate.frag</file>
+        <file>res/shaders/coordinate.vert</file>
+        <file>res/shaders/cube.frag</file>
+        <file>res/shaders/cube.vert</file>
+        <file>res/shaders/plane.frag</file>
+        <file>res/shaders/plane.vert</file>
+        <file>res/shaders/pbrlighting.frag</file>
+        <file>res/shaders/pbrlighting.vert</file>
+        <file>res/shaders/pbrTexture.frag</file>
+        <file>res/shaders/pbrTexture.vert</file>
+    </qresource>
+    <qresource prefix="/textures">
+        <file>res/textures/brickwall.jpg</file>
+        <file>res/textures/cementwall.jpg</file>
+        <file>res/textures/rusted_iron/albedo.png</file>
+        <file>res/textures/rusted_iron/ao.png</file>
+        <file>res/textures/rusted_iron/metallic.png</file>
+        <file>res/textures/rusted_iron/normal.png</file>
+        <file>res/textures/rusted_iron/roughness.png</file>
+    </qresource>
+    <qresource prefix="/qss">
+        <file>res/qss/white.css</file>
+        <file>res/qss/black.css</file>
+    </qresource>
+</RCC>
